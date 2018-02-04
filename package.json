@@ -1,0 +1,23 @@
+{
+  "name": "movielist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdalpozzo/movielist.git"
+  },
+  "keywords": [
+    "movie",
+    "list"
+  ],
+  "author": "marlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdalpozzo/movielist/issues"
+  },
+  "homepage": "https://github.com/mdalpozzo/movielist#readme"
+}
